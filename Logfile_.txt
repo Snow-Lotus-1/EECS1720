@@ -6,3 +6,8 @@ today i worked on JS
 
 Jan 18
 I tried working on the extension demoed in class today, tmr I may expand on it @11:27pm
+
+Jan 19
+During Lab 1 I was asked to implement the demos shown in class and show the ta they worked in chrome and fire fox
+- I imported the google search demo, altered some minor things such as putting images in a folder
+- no major changes to the code
