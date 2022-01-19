@@ -1,0 +1,13 @@
+"name": "Extension Demo", 
+"version": "1.0",
+"description": "Build an Basic Extension!", 
+"permissions": ["activeTab"],
+"browser_action": {
+	"defualt_popup": "popup.html",
+	"defualt_icon": {
+		"16": "images/icon16.png",
+		"32": "images/icon32.png",
+		"48": "images/icon48.png"
+	},
+	"manifest_version": 2
+}
